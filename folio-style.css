@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+.root{
+    width: 100%;
+    padding: 10px;
+}
+.topnav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-side{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.homeSection{
+
+}
